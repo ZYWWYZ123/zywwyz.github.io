@@ -1,3 +1,4 @@
 ## 欢迎来到ZYW的个人主页
 
-<font color=#0099ff>文字示例</font></br>
+<span style="display:block;text-align:center;color:orangered;">文字样式</span></br>
+<span style="display:block;text-align:center;color:orangered;">橙色居中</span>
