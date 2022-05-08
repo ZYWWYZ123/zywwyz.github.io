@@ -1,10 +1,10 @@
-<span style="display:block;text-align:center;color:#426ab3;font-size:48px">**欢迎来到ZYW的个人主页！**</span>
+<span style="display:block;text-align:center;color:#426ab3;font-size:48px;">**欢迎来到ZYW的个人主页！**</span>
 
 ---
 
-<span style="display:block;text-align:left;color:#f58f98;">这个GitHub主页由ZYWWYZ进行管理</span>
+<span style="display:block;text-align:left;color:#f58f98;font-size:20px;">这个GitHub主页由ZYWWYZ进行管理</span>
 
-<span style="display:block;text-align:left;color:#f58f98;">要查看由ZYW制作的项目，请查阅以下表格</span>
+<span style="display:block;text-align:left;color:#f58f98;font-size:20px;">要查看由ZYW制作的项目，请查阅以下表格</span>
 
 |项目|发布日期|
 |:--:|:--:|
