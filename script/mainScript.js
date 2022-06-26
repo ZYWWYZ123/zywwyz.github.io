@@ -22,12 +22,12 @@ else {
 let cat_image_change = document.getElementById('catImage')
 cat_image_change.onclick = function() {
     let image_inf = cat_image_change.getAttribute('src')
-    if (image_inf === 'images/xiao-ice.gif') {
-        cat_image_change.setAttribute('src','images/cat.jpg')
+    if (image_inf === 'images/cat.jpg') {
+        cat_image_change.setAttribute('src','images/cat2.jpg')
         alert('哼，你又戳我！我走了:(')
     }
     else {
-        cat_image_change.setAttribute('src','images/xiao-ice.gif')
+        cat_image_change.setAttribute('src','images/cat.jpg')
         alert('啊你居然真的不理我了')
     }
 }
