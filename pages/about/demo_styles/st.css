@@ -17,3 +17,7 @@ h1 {
 p {
     font-size: 24px;
 }
+
+#timeAndName {
+    text-align: right;
+}
